@@ -115,8 +115,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 - Website - [Your Website](https://your-website.com)
-- GitHub - [@yourusername](https://github.com/yourusername)
-- LinkedIn - [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub - [@nazimpahore](https://github.com/nazimpahore)
+- LinkedIn - [Nazim Pahore](https://linkedin.com/in/nazimpahore)
 
 ## 🙏 Acknowledgments
 
