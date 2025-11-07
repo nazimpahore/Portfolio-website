@@ -293,6 +293,10 @@ body.dark-mode .navbar {
     gap: 1rem;
     margin-bottom: 2rem;
     flex-wrap: wrap;
+    .social-links {
+        justify-content: center;
+        margin-top: 1rem;
+    }
 }
 
 .btn {
@@ -1408,6 +1412,7 @@ body.dark-mode .about-info-box {
         width: 100%;
         justify-content: center;
     }
+     
 
     .section-title {
         font-size: 2rem;
@@ -1456,6 +1461,10 @@ body.dark-mode .about-info-box {
     .filter-btn {
         width: 100%;
     }
+        .social-links {
+            justify-content: center;
+            margin-top: 1rem;
+        }
 }
 
 /* ==========================================
